@@ -11,10 +11,10 @@ const Hero = () => {
         <img src={assets.sketch} alt="sketch" className="md:block hidden absolute -bottom-7 right-0" />
       </h1>
       <p className="md:block hidden text-gray-500 max-w-2xl mx-auto">
-        We bring together world-class instructors, interactive content, and a supportive community to help you achieve your personal and professional goals.
+        Unlock limitless learning with expert-led content, real-world projects, and a community that supports your journey every step of the way.
       </p>
       <p className="md:hidden text-gray-500 max-w-sm mx-auto">
-        We bring together world-class instructors to help you achieve your professional goals.
+        Learn from industry experts with practical content designed to help you grow faster and smarter.
       </p>
       <SearchBar />
     </div>
